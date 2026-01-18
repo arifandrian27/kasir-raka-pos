@@ -1,0 +1,8 @@
+{
+  "name": "Kasir Raka",
+  "description": "A comprehensive Progressive Web App for retail management, including POS, inventory, reports, and receipt management.",
+  "requestFramePermissions": [
+    "camera",
+    "bluetooth"
+  ]
+}
